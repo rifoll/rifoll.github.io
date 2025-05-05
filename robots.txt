@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fastly.jsdelivr.net/gh/rifoll/rifoll.github.io@prod/sitemap/sitemap.txt
